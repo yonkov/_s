@@ -1,10 +1,9 @@
 === _s ===
 
 Contributors: automattic
-Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
-
+Tags: blog, portfolio, e-commerce, custom-background, custom-header, custom-logo, custom-menu, featured-images, flexible-header, one-column, right-sidebar, rtl-language-support, sticky-post, theme-options, two-columns, threaded-comments, translation-ready
 Requires at least: 4.5
-Tested up to: 5.4
+Tested up to: 5.6
 Requires PHP: 5.6
 Stable tag: 1.0.0
 License: GNU General Public License v2 or later
