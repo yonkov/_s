@@ -1,0 +1,34 @@
+@import "no-sidebar";
+
+.site-main {
+  overflow: hidden; /* Resolves issue with <pre> elements forcing full width. */
+}
+
+.widget-area {
+  position: relative;
+}
+
+.widget-area {
+  padding: 20px 0;
+}
+
+.widget-area ul {
+  padding-left: 0;
+  margin-left: 0;
+}
+
+@media (min-width: 60em) {
+  #secondary {
+    width: 100%;
+    max-width: 32%;
+  }
+  .widget-area h2 {
+    margin-top: 0;
+  }
+}
+
+@media (min-width: 80em) {
+  #secondary {
+    max-width: 26%;
+  }
+}

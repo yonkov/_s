@@ -17,6 +17,12 @@
 	margin: 1.5em 0 0;
 }
 
+.entry-content::after {
+    clear: both;
+    display: table;
+    content: '';
+}
+
 .page-links {
 	clear: both;
 	margin: 0 0 1.5em;

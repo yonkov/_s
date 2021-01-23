@@ -1,0 +1,17 @@
+.widget {
+	margin: 0 0 2.75em;
+	border-bottom: 1px solid #e3e3e3;
+	
+	ul {
+		list-style: none;
+	}
+
+	// Make sure select elements fit in widgets.
+	select {
+		max-width: 100%;
+	}
+
+	&.widget_search {
+		border-bottom: 0;
+	}
+}

@@ -1,5 +1,7 @@
 /node_modules
 /vendor
+/.vscode
+.bat
 package-lock.json
 composer.lock
 style.css.map
